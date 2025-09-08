@@ -64,8 +64,7 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone <repository-url>
-   cd employee-directory
+   git clone <https://github.com/iamdiasbilalov/first.git>
    ```
 
 2. **Установите зависимости**
