@@ -1,0 +1,101 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "BI Group"
+    },
+    {
+      "id": "2",
+      "name": "Svoy Dom"
+    },
+    {
+      "id": "3",
+      "name": "Sat NS"
+    },
+    {
+      "id": "4",
+      "name": "NAK"
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "name": "IT"
+    },
+    {
+      "id": "2",
+      "name": "HR"
+    },
+    {
+      "id": "3",
+      "name": "Finance"
+    },
+    {
+      "id": "4",
+      "name": "Marketing"
+    },
+    {
+      "id": "5",
+      "name": "Sales"
+    },
+    {
+      "id": "6",
+      "name": "Operations"
+    },
+    {
+      "id": "7",
+      "name": "Legal"
+    },
+    {
+      "id": "8",
+      "name": "Administration"
+    },
+    {
+      "id": "8c1a9b4f-974e-40c6-899b-841ac44bd5b1",
+      "name": "Footballer"
+    }
+  ],
+  "users": [
+    {
+      "id": "admin",
+      "username": "admin",
+      "password": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+      "role": "admin"
+    },
+    {
+      "id": "be9b53aa-1205-40ca-ab7b-628817cfe362",
+      "username": "Dias",
+      "password": "$2a$10$eztRG7fwVGP2hDHZGulFnuBSMTU1hZiuswBGmsCNtJZPh1CepXpsO",
+      "role": "user"
+    }
+  ],
+  "employees": [
+    {
+      "id": "2",
+      "fullName": "Айгуль Касымова",
+      "position": "HR-менеджер",
+      "departmentId": "2",
+      "companyId": "2",
+      "phone": "+77777777778",
+      "email": "aigul.kasymova@svoydom.kz"
+    },
+    {
+      "id": "3",
+      "fullName": "Дмитрий Петров",
+      "position": "Маркетолог",
+      "departmentId": "4",
+      "companyId": "3",
+      "phone": "+77777777779",
+      "email": "dmitry.petrov@satns.kz"
+    },
+    {
+      "id": "22aa92dd-bb1d-40f2-8550-0266100cb7cc",
+      "fullName": "Билал Диас ",
+      "position": "Директор",
+      "departmentId": "5",
+      "companyId": "1",
+      "phone": "+7 706 656 54 54",
+      "email": "iamdiasbilalov@gmail.com"
+    }
+  ]
+}
